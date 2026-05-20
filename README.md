@@ -25,7 +25,6 @@
 -> lance Frida :
 
 <img width="943" height="198" alt="image" src="https://github.com/user-attachments/assets/d3da5aa2-0dd4-464e-a7f3-6a577a80540a" />
-<img width="473" height="134" alt="image" src="https://github.com/user-attachments/assets/42d513d4-813c-4274-abb4-86926480fd17" />
 
                      
                      Étape 3 : Script Frida – Explication détaillée
