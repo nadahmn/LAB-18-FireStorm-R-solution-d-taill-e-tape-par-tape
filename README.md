@@ -1,4 +1,4 @@
-<img width="945" height="497" alt="image" src="https://github.com/user-attachments/assets/239da2b5-5b61-44a6-b2ad-ecc4f3226645" /># LAB-18-FireStorm-R-solution-d-taill-e-tape-par-tape
+# LAB-18-FireStorm-R-solution-d-taill-e-tape-par-tape
 
                      Étape 1 : Préparation de l’environnement
                      
